@@ -19,7 +19,7 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
         myTableView.delegate = self
         myTableView.dataSource = self
         
-        //プロパティリストファイルパスを取得
+        //property list file path を取得
         let filePath = Bundle.main.path(forResource: "placelist", ofType: "plist")
         //プロパティリストからdataを取得（dictionary型）
         let dic = NSDictionary(contentsOfFile: filePath!)
