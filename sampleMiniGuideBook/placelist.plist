@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ayala(南部)</key>
+	<dict>
+		<key>description</key>
+		<string>Cebuの南部</string>
+		<key>image</key>
+		<string>アールグレイ.jpeg</string>
+		<key>latitude</key>
+		<string>10.3747</string>
+		<key>longitude</key>
+		<string>123.905</string>
+	</dict>
+	<key>Ayala(北部)</key>
+	<dict>
+		<key>description</key>
+		<string>cebuの北部</string>
+		<key>image</key>
+		<string>アッサム.jpg</string>
+		<key>latitude</key>
+		<string>12.900</string>
+		<key>longitude</key>
+		<string>123.905</string>
+	</dict>
+	<key>Ayala(西部)</key>
+	<dict>
+		<key>description</key>
+		<string>Cebuの西部</string>
+		<key>image</key>
+		<string>オレンジペコ.jpg</string>
+		<key>latitude</key>
+		<string>16.892</string>
+		<key>longitude</key>
+		<string>123.905759</string>
+	</dict>
+	<key>Ayala</key>
+	<dict>
+		<key>description</key>
+		<string>Cebuの中心地</string>
+		<key>image</key>
+		<string>アッサム.jpg</string>
+		<key>latitude</key>
+		<string>13.892</string>
+		<key>longitude</key>
+		<string>123.905</string>
+	</dict>
+</dict>
+</plist>
